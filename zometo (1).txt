@@ -1,0 +1,35 @@
+zometo project
+
+admin
+-name
+-email
+-password
+
+user
+-first name
+-last name
+-location
+-mobile number
+
+restro
+-type
+-city
+-pincode
+-number
+-name
+
+categories
+-type
+-name
+-description
+
+list/item
+-categories[id]
+-name
+-price
+-description
+
+order
+-restro[id]
+-item[id]
+-user[id]
